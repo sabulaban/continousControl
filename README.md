@@ -4,7 +4,7 @@
 # Train Robotic Arms
 -----------------------
 
-<img src="./robot-pickers.resized.gif" width="500"/>
+<img src="./robot-pickers.resized.gif"/>
 
 Photo credit: [Google AI Blog](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
 
