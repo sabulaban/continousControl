@@ -1,13 +1,6 @@
 
 ### Udacity Deep Reinforcement Learning Nanodegree
 ## Project 2: Continous Control
-# Train Robotic Arms
------------------------
-
-<img src="./robot-pickers.resized.gif"/>
-
-Photo credit: [Google AI Blog](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
-
 
 # Background
 ------------
