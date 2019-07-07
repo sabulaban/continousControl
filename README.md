@@ -3,7 +3,7 @@
 ## Project 2: Continous Control
 # Train Robotic Arms
 -----------------------
-![Whatever](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b35985b_image8/image8.gif)
+![](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/June/5b35985b_image8/image8.gif)
 
 Photo credit: [Google AI Blog](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
 
